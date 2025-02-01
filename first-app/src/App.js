@@ -1,8 +1,11 @@
-
+import First from "./First.js";
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <>
+   <First/>
+   <h1>This is JSX syntax</h1>
+   </>
   );
 }
 
