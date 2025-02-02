@@ -1,0 +1,8 @@
+Creating react project using vite..
+
+npm create vite@latest
+
+and run:
+
+npm run dev
+
